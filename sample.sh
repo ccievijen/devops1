@@ -1,5 +1,3 @@
 #!/bin/bash
-echo Hello World
-echo "bye"
-ls
-useradd demo
+echo Hello VJ World
+echo "bye VJ"
